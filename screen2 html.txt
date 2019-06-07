@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    
+  
+</head>
+
+<body> 
+
+    
+    <h1 class="head">Let's create something extraordinary together</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti id ex
+        veritatis voluptatibus laudantium explicabo, dolor quo saepe suscipit. Pariatur velit earum consequatur quia
+        voluptatum neque eaque quis dolorem error.</p>
+    <p style="margin-top: 30px">Adress 32411 Santa Monica Bouleward, LA</P>
+    <p>Phone: +44 123 456 678</p>
+    <p>Email: nurlanmemmedov@code.edu.az</p>
+    <p>Fax: <span style="color: white">+44 123 456 789</span></p>
+    <h3 class="head">Google Map</h3>
+    <h2 class="head" style="margin-top: 40px">Get In Touch</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui, omnis aspernatur culpa iusto molestiae amet pariatur.</p>
+     <form action="something.com" target="blank">
+        <input type="text" name="input" placeholder="  your name" class="inputs"><br>
+        <input type="text" name="input" placeholder="  Your email" class="inputs"><br>
+        <input type="text" name="input" placeholder="  Write the subject" class="inputs"><br>
+        <input type="text" name="input" placeholder="  write message" class="inputs" style="height: 55px"><br>
+
+        <input type="submit"  value="Send message" style="color: white; background-color: black; margin-top: 15px; padding: 10px; border-radius: 5px; border-color: black">
+
+
+     </form>   
+</body>
+
+</html>

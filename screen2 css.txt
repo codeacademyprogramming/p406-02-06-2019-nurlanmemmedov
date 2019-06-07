@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(73, 10, 175);
+    margin-left: 100px;
+    max-width: 1200px;
+  
+
+}
+p{
+    color: rgba(245, 245, 245, 0.767);
+}
+.head{
+    color: white;
+}
+.inputs{
+    width: 1120px; 
+    height: 30px;
+    border: solid; 
+    border-radius: 5px;
+    border-color: white;
+    margin-top: 15px; 
+  
+   
+}
